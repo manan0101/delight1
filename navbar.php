@@ -265,6 +265,7 @@
                   <li><a class="dropdown-item" href="menu.php#pizza">Pizza</a></li>
                   <li><a class="dropdown-item" href="menu.php#burger">Burger</a></li>
                   <li><a class="dropdown-item" href="menu.php#beverage">Beverages</a></li>
+                  <li><a class="dropdown-item" href="menu.php#soup">Soup</a></li>
                 </ul>
               </li>
               <li class="nav-item">
